@@ -16,6 +16,9 @@
   .course-link:hover {
     border-bottom: inherit !important;
   }
+  a[href$='courses'] {
+    display:none !important;
+  }
 }
 
 .nav-small-menu {
